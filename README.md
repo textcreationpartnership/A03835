@@ -36,10 +36,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-DAVIDIS HVMII
-THEAGRII LVSVS
-POETICI, IN TRES PARTES
-DISTINCTI.Me vero in primis dulces antè omnia M
+
 1. ILLVSTRISSIMAE, ET
 omni laudis genere Ornatissimae
 Dominae, D. ARABELLAE
